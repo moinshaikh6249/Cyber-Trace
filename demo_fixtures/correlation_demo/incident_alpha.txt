@@ -1,0 +1,4 @@
+Synthetic classroom fixture A.
+
+Observed network reference for demonstration: 203.0.113.25
+This is a TEST-NET documentation address and is not real evidence.

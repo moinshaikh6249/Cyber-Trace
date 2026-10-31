@@ -1,0 +1,4 @@
+Synthetic classroom fixture C.
+
+This note contains unrelated safe text for a negative-correlation check.
+No network indicator is included.
